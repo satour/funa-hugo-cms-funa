@@ -1,5 +1,5 @@
 ---
-title: "Values"
+title: "ここも静的なページです"
 image: /img/about-jumbotron.jpg
 values:
   - heading: "Shade-grown coffee"
